@@ -118,7 +118,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.snack_title_icon:
 
                 SnackBar snackBarIconTitle = new SnackBar();
-                snackBarIconTitle.view(snackActionFont)
+                snackBarIconTitle.view(snackTitleIcon)
                         .text("Icons for title", "Done")
                         .setIconForTitle(generateDrawableBasedOnVersions(), SnackBar.IconPosition.LEFT,6)
                         .show();
@@ -127,7 +127,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.snack_action_icon:
 
                 SnackBar snackBarIconAction = new SnackBar();
-                snackBarIconAction.view(snackActionFont)
+                snackBarIconAction.view(snackActionIcon)
                         .text("Icons for action", "Done")
                         .setIconForAction(generateDrawableBasedOnVersions(), SnackBar.IconPosition.RIGHT,6)
                         .show();
