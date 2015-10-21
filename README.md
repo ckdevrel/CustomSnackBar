@@ -1,3 +1,5 @@
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-CustomSnackBar-green.svg?style=flat)](https://android-arsenal.com/details/1/2659)
+
 # CustomSnackBar
 
 CustomSnackBar is a repo of my own customization for Snackbar, with this you could able to change background color of Snackbar, font, style, color, icons for title and action. The Snackbar usage in android application is completely customized according to the Singleton pattern methods for using Snackbar effectively in Activity and fragments by avoiding un necessary object creation and lengthy boiler plate code.
