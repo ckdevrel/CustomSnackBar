@@ -83,7 +83,7 @@ CustomSnackBar is a repo of my own customization for Snackbar, with this you cou
 
 **Why to use CustomSnackbar** 
 
-1. It is a very good replacement for Tost, Dialogs, Alert.,
+1. It is a better replacement for Toast, Dialogs, Alert, etc.,
 
 2. More than that it is easy to use and enrich the User experience by easy customization through Singleton pattern.
 
